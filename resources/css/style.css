@@ -8,11 +8,14 @@ html {
 h1 {
   font-size: 70px;
   color: white;
+}
+
+header {
   background-image: url('../images/the-flatiron-building.png');
 }
 
 /* Page navigation links */
-.links {
+.btn-nav {
   font-size: 18px;
   color: white;
   font-weight: normal;
