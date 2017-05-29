@@ -3,3 +3,16 @@ html {
   text-align: center;
   font-weight: bold;
 }
+
+/* Main heading */
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+/* Page navigation links */
+.links {
+  font-size: 18px;
+  color: white;
+  font-weight: normal;
+}
