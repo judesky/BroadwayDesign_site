@@ -10,7 +10,7 @@ h1 {
   color: white;
 }
 
-header {
+main {
   background-image: url('../images/the-flatiron-building.png');
 }
 
@@ -26,17 +26,30 @@ h2 {
   font-size: 32px;
 }
 
-/* Process sub-headings */
+/* Process & details sub-headings */
 h3 {
   font-size: 23px;
 }
 
-/* Process content */
+/* Process & details content */
 p {
   font-size: 14px;
   font-weight: normal;
 }
 
-h1.divider {
+/* divider between process and details */
+.divider {
   font-size: 23px;
+  color: white;
+}
+
+footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+
+/* copyright format*/
+.copyright {
+  font-size: 11px;
 }
