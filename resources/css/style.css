@@ -12,6 +12,9 @@ h1 {
 
 main {
   background-image: url('../images/the-flatiron-building.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 /* Page navigation links */
